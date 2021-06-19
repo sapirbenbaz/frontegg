@@ -1,0 +1,19 @@
+.starting {
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.starting h1 {
+  font-size: 5rem;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 10px 0;
+}
+
+td {
+  padding: 10px 0;
+  text-align: center;
+  vertical-align: middle;
+}
